@@ -1,5 +1,5 @@
 # World-happiness-index-vs-GDP
-**Project title: GDP vs Happiness Index
+Project title: GDP vs Happiness Index
 Dataset: Kaggle
 Key EDA Focus Area: Scatter, correlation, region segmentation
 Purpose: The goal of this project is to analyze the World Happiness Index (WHI) dataset (2015–2023) to uncover how economic indicators such as GDP per capita, inflation metrics and social factors e.g., social support, freedom, influence happiness scores.
@@ -11,4 +11,4 @@ Economic Indicators (GDP per capita, inflation metrics)
 
 Social Factors (Freedom, Social Support, Generosity)
 
-Geographical Information (Country & Continent)**
+Geographical Information (Country & Continent)
